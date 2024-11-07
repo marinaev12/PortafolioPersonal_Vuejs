@@ -7,7 +7,7 @@ import cv from '/src/assets/cv_resume_icon.svg';
 const title = 'Marina Evangelista';
 const descripcion = 'Técnica Universitaria en Programación - UTN';
 const residencia = 'CABA, Buenos Aires, Argentina';
-const presentacion = 'Hola, Bienvenidx a mi portafolio de proyectos. Soy  desarrolladora web con experiencia en el desarrollo de aplicaciones web y móviles.';
+const presentacion = 'Hola, Bienvenidx a mi portafolio de proyectos. Soy desarrolladora web con experiencia en el desarrollo de aplicaciones web y móviles. En busca de mi primer experiencia como desarrolladora.';
 const redesSociales = [
   { id: 1, name: 'linkedin', src: linkedin, url: 'https://www.linkedin.com/in/marina-evangelista-54188110b/' },
   { id: 2, name: 'Instagram', src: instagram, url: 'https://www.instagram.com/joseperez/' },
